@@ -1,0 +1,1 @@
+This repository contains bits and bytes gathered from the web on Text Processing, Text Mining, Natural Language Processing(NLP) and Sentiment Analysis of Text. Please feel free to add your own links to the repository and create a MR for the same. 
